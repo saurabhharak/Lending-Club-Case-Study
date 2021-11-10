@@ -41,8 +41,8 @@ team wants to reduce this risk.
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-- References 
-  https://www.consumerfinance.gov/ask-cfpb/what-is-a-debt-to-income-ratio-why-is-the-43-debt-to-income-ratio-important-en-1791/
+ References 
+- https://www.consumerfinance.gov/ask-cfpb/what-is-a-debt-to-income-ratio-why-is-the-43-debt-to-income-ratio-important-en-1791/
 - Debt to Income ratio
   https://www.mdpi.com/1911-8074/14/7/320/htm
 - Loan Delinquency Factors
