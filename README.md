@@ -26,8 +26,7 @@ team wants to reduce this risk.
 ## Conclusions
 - Interest rate among charged off customers is more than the Fully paid
 - Customers of grade A are less likely to default than other grade customers
-- Income source not verified customers are more likely to default than
-- verified and source verified customers
+- Income source not verified customers are more likely to default than verified and source verified customers
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
