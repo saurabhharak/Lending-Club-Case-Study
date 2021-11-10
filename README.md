@@ -1,6 +1,8 @@
 # Lending Club Case Study
-> To understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default..
-
+> When borrowers apply for a loan at Lending Club, the company team wants to
+reduce financial risk of losing money to borrowers who fails to pay the loans. By
+identifying the driving factors from the dataset of existing and previous customers,
+team wants to reduce this risk.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -11,38 +13,43 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Lending Club is the largest online loan marketplace, facilitating personal
+  loans, business loans, and financing of medical procedures. Borrowers can
+  easily access lower interest rate loans through a fast online interface.
+  When the company receives a loan application, the company has to
+  make a decision for loan approval based on the applicant’s profile. Likely
+  to pay and not likely to repay the loan are two types of risks associated
+  based on the decision.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Interest rate among charged off customers is more than the Fully paid
+- Customers of grade A are less likely to default than other grade customers
+- Income source not verified customers are more likely to default than
+- verified and source verified customers
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- pandas
+- numpy 
+- matplotlib
+- seaborn 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- References 
+  https://www.consumerfinance.gov/ask-cfpb/what-is-a-debt-to-income-ratio-why-is-the-43-debt-to-income-ratio-important-en-1791/ - Debt to Income ratio
+  https://www.mdpi.com/1911-8074/14/7/320/htm - Loan Delinquency Factors
+  https://www.investopedia.com/terms/d/derogatory-information.asp - Derogatory Information
+
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@saurabhharak] - feel free to contact me!
 
 
 <!-- Optional -->
